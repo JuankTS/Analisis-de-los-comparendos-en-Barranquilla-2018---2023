@@ -5,4 +5,5 @@ Este analisis tiene como finalidad explorar y estudiar como se han comportado lo
 Exploramos que tipo de vehiculos comenten las infracciones, que tipo de multas repiten con más frecuencia, el comportamiento en el tiempo, etc. y asi poder tener un panorama de como se encuentra la situacion respecto al transito en Barranquilla.
 
 Fuente de los datos: https://www.datos.gov.co/
+
 linkedIn: www.linkedin.com/in/juan-camilo-torres-salas-907749265
