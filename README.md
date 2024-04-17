@@ -6,4 +6,4 @@ Exploramos que tipo de vehiculos comenten las infracciones, que tipo de multas r
 
 Fuente de los datos: https://www.datos.gov.co/
 
-linkedIn: www.linkedin.com/in/juan-camilo-torres-salas-907749265
+LinkedIn: www.linkedin.com/in/juan-camilo-torres-salas-907749265
